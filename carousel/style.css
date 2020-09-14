@@ -16,8 +16,8 @@ body {
 .carousel {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     overflow: hidden;
-    height: 500px;
-    width: 500px;
+    height:450px;
+    width: 450px;
 }
 
 .image-container {

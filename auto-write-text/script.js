@@ -1,4 +1,4 @@
-const text = "My viewers on Twitch are the best!! <3";
+const text = "My Teachers and Friends are the best";
 
 let index = 0;
 

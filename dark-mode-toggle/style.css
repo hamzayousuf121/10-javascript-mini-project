@@ -14,7 +14,6 @@ body {
     min-height: 100vh;
     text-align: center;
     padding: 5rem;
-
     transition: background 0.3s linear, color 0.3s linear;
 }
 
@@ -30,7 +29,7 @@ body.dark {
 }
 
 label {
-    background-color: rebeccapurple;
+    background-color: crimson;
     border-radius: 50%;
     display: inline-block;
     width: 50px;

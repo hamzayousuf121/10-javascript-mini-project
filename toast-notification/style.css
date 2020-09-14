@@ -14,7 +14,7 @@ body {
 }
 
 button {
-    background-color: rebeccapurple;
+    background-color: crimson;
     color: white;
     font-family: inherit;
     padding: 1rem;
@@ -29,7 +29,7 @@ button {
 }
 
 .toast {
-    background-color: rebeccapurple;
+    background-color: crimson;
     border-radius: 5px;
     color: #fff;
     padding: 2rem;
